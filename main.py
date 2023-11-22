@@ -1,3 +1,5 @@
+# Morkovkin Aleksand
+
 def main():
     print("My second GIT program")
 
